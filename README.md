@@ -1,5 +1,5 @@
-![image]([https://github.com/PRIEST099/PRIEST099/assets/110562016/cc403764-30c9-4810-9648-e0180aa3d8c6](https://instagram.fkgl3-1.fna.fbcdn.net/v/t51.2885-19/349127102_1918956008480687_8877417528442589344_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fkgl3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=yDg2QkC1p_MAX-5g-Dt&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfDowH9-aL-DXmNQ2oE0eQrcRgJqlV2rJQJ7rQK1926xtA&oe=64F32F63&_nc_sid=ee9879)](https://avatars.githubusercontent.com/u/110562016?v=4))<h1 align="center">Hi 👋, I'm Ahadi CYIZERE</h1>
-<h3 align="center">A passionate software and machine learning engineer</h3>
+<h1 align="center">Hi 👋, I'm Ahadi CYIZERE</h1>
+<h3 align="center">A software engineer who is passionate about machine learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priest099&label=Profile%20views&color=0e75b6&style=flat" alt="priest099" /> </p>
 
