@@ -1,4 +1,4 @@
-![image](https://github.com/PRIEST099/PRIEST099/assets/110562016/cc403764-30c9-4810-9648-e0180aa3d8c6)<h1 align="center">Hi 👋, I'm Ahadi CYIZERE</h1>
+![image]([https://github.com/PRIEST099/PRIEST099/assets/110562016/cc403764-30c9-4810-9648-e0180aa3d8c6](https://instagram.fkgl3-1.fna.fbcdn.net/v/t51.2885-19/349127102_1918956008480687_8877417528442589344_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fkgl3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=yDg2QkC1p_MAX-5g-Dt&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfDowH9-aL-DXmNQ2oE0eQrcRgJqlV2rJQJ7rQK1926xtA&oe=64F32F63&_nc_sid=ee9879))<h1 align="center">Hi 👋, I'm Ahadi CYIZERE</h1>
 <h3 align="center">A passionate software and machine learning engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priest099&label=Profile%20views&color=0e75b6&style=flat" alt="priest099" /> </p>
@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **C, Kotlin, Java**
 
-- 📫 How to reach me **"Did you know that software enthusiasts are like modern-day wizards? We wield keyboards and code to conjure solutions out of thin air, turning caffeine into algorithms. 🧙‍♂️✨"**
+- 📫 How to reach me **ahadic044@gmail.com"**
 
-- 🧑🏾‍💻Fun fact **ahadic044@gmail.com**
+- 🧑🏾‍💻Fun fact **I speak fluent Java, Python, C, and Emoji! 🚀😎 - 🧙‍♂️✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
