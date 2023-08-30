@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahadic044@gmail.com"**
 
-- 🧑🏾‍💻Fun fact **I speak fluent Java, Python, C, and Emoji! 🚀😎 - 🧙‍♂️✨**
+- 🧑🏾‍💻Fun fact **'I speak fluent Java, Python, C, and Emoji! 🚀😎 - 🧙‍♂️✨'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
