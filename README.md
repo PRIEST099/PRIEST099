@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/a_had_i_" target="blank"><img src="https://img.shields.io/twitter/follow/a_had_i_?logo=twitter&style=for-the-badge" alt="a_had_i_" /></a> </p>
 
-- 🔭 I’m currently working on [ALX SOFTWARE ENGINEERING PROGRAM](https://github.com/PRIEST099/alx-low_level_programming)
+- 🔭 I’m currently working on [ALX SOFTWARE ENGINEERING PROGRAM](https://www.alxafrica.com/software-engineering-plus/)
 
 - 🌱 I’m currently learning **C low-level programming, TensorFlow machine learning**
 
