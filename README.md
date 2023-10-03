@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [ALX SOFTWARE ENGINEERING PROGRAM](https://www.alxafrica.com/software-engineering-plus/)
 
-- 🌱 I’m currently learning **C low-level programming, TensorFlow machine learning**
+- 🌱 I’m currently learning **Python high-level programming, TensorFlow machine learning**
 
-- 💬 Ask me about **C, Kotlin, Java**
+- 💬 Ask me about **Python, C, Kotlin, Java**
 
 - 📫 How to reach me **ahadic044@gmail.com"**
 
