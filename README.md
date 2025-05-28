@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/a_had_i_" target="blank"><img src="https://img.shields.io/twitter/follow/a_had_i_?logo=twitter&style=for-the-badge" alt="a_had_i_" /></a> </p>
 
-- 🔭 I’m currently working on [ALX SOFTWARE ENGINEERING PROGRAM](https://www.alxafrica.com)
+- 🔭 I’m an [ALX SOFTWARE ENGINEERING PROGRAM](https://www.alxafrica.com) Graduate.
 
-- 🌱 I’m currently learning **Python high-level programming, TensorFlow, Node.js, Flask, Flutter, and JavaScript**
+- 🌱 I have skills in **Python high-level programming, TensorFlow, Node.js, Flask, Flutter, and JavaScript**
 
 - 💬 Ask me about **Python, C, Kotlin, Java, Node.js, Flutter, Flask**
 
